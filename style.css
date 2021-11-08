@@ -1,0 +1,19 @@
+.about_wrapper{
+  padding: 100px 0 0;
+}
+.about_wrapper .about_title{
+  font-weight: 800;
+  font-size: 40px;
+  line-height: 1.25;
+  letter-spacing: 5px;
+  max-width: 1000px;
+  margin-bottom: 25px;
+  color: green;
+}
+.about_wrapper .about_text{
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 1.7;
+  max-width: 700px;
+  color
+}
